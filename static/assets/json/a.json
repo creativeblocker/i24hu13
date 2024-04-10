@@ -293,4 +293,18 @@
     "image": "/assets/media/icons/gemini.webp",
     "categories": ["all", "ai"]
   }
+{
+    "name": "Roblox",
+    "link": "https://websitesball.com",
+    "image": "/assets/media/icons/roblox.webp",
+    "categories": ["all"]
+    "custom": "true"
+}
+{
+    "name": "Radon Games",
+    "link": "https://radon.games",
+    "image": "https://avatars.githubusercontent.com/u/107269758?s=280&v=4",
+    "categories": ["all"]
+    "custom": "true"
+}
 ]
