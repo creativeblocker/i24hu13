@@ -38,6 +38,7 @@ if (config.routes !== false) {
     { path: "/p", file: "go.html" },
     { path: "/", file: "index.html" },
     { path: "/tos", file: "tos.html" },
+    { path: "/admin", file: "admin.html" },
   ]
 
   routes.forEach((route) => {
